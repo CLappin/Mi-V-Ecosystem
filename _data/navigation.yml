@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "PolarFire SoC"
+    url:  /docs/polarfire-soc/
+  - title: "Mi-V Soft CPUs"
+    url: "/docs/mi-v-soft-cpu/"
+  - title: "Tools"
+    url:  "/docs/tools/"
+  - title: "FAQs"
+    url:  "/docs/faqs/"    
+  - title: "Support"
+    url: /about/       
   - title: "About"
-    url: /about/
+    url: /about/  
