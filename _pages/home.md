@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home
 # title: "Mi-V Ecosystem"
 permalink: /
 hidden: true
