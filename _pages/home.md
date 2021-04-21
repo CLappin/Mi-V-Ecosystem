@@ -14,21 +14,21 @@ excerpt: >
   A comprehensive offering to ease the adoption of RISC-V.<br /> 
   Open. Lowest power. Programmable RISC-V solutions.<br />
 feature_row:
-  - image_path: 
+  - image_path: /assets/images/200602-FPGA-SOC-PolarFire-SoC-Marketo-600x250.jpg
     alt: "customizable"
     title: "PolarFire SoC"
     excerpt: "They're the hard processors."
     url:  "/docs/polarfire-soc/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: 
+  - image_path: /assets/images/190731-FPGA-Risc-v-webinar-400x267.jpg
     alt: "fully responsive"
     title: "Mi-V RISC-V Processors"
     excerpt: "They're the soft processors"
     url: "/docs/mi-v-soft-cpu/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: 
+  - image_path: /assets/images/Libero_Logo.png
     alt: "100% free"
     title: "Tools"
     excerpt: "We have them :) "
