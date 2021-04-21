@@ -5,7 +5,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/201106-CORP-BNR-Design-Centers-FPGAs-and-plds-Banner-1280x124.jpg
+  overlay_image: /assets/images/201106-CORP-BNR-Design-Centers-FPGAs-and-plds-Banner-2880x280.jpg
  #actions: "#5e616c"
   #  - label: "<i class='fas fa-download'></i> Install now"
    #   url: "/docs/quick-start-guide/"
