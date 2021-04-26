@@ -10,7 +10,7 @@ excerpt: "Welcome to the Linux User page."
 ---
 
 # Introduction 
-Before attempting to run either Buildroot or Yocto please make sure that the you are using the latest release of the Icicle Kit Reference design. The Icicle Kit Reference design can be found [here](https://github.com/polarfire-soc/icicle-kit-reference-design/releases).
+Before attempting to run either Buildroot or Yocto please make sure that you are using the latest release of the Icicle Kit Reference design. The Icicle Kit Reference design can be found [here](https://github.com/polarfire-soc/icicle-kit-reference-design/releases).
 
 | **Buildroot**  | **Yocto** |
 | Building Linux Using Buildroot | Building Linux Using Yocto |
@@ -19,11 +19,6 @@ Before attempting to run either Buildroot or Yocto please make sure that the you
 | 2. [Loading the Linux image to the target](https://github.com/polarfire-soc/polarfire-soc-buildroot-sdk#loading-the-image-onto-the-target) | 2. [Loading the Linux image to the target](https://github.com/polarfire-soc/meta-polarfire-soc-yocto-bsp#copy-the-created-disk-image-to-flash-device-usb-mmc-flashsdusd) | 
 | 3. [Rebuilding the Linux image](https://github.com/polarfire-soc/polarfire-soc-buildroot-sdk#rebuilding-the-linux-image) | 3. [Rebuilding the Linux image]() |
 | | Below are several video to explain how to build a Yocto image for PolarFire SoC.  |
-
-
-
-### MSS Configurator 
-[PolarFire SoC MSS Configurator](https://www.microsemi.com/product-directory/soc-design-tools/5587-pfsoc-mss-configurator-tool#downloads)
 
 ## References
 PolarFire SoC Documentation 
