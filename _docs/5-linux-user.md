@@ -24,9 +24,17 @@ Before attempting to run either Buildroot or Yocto please make sure that you are
 PolarFire SoC Documentation 
 * [PolarFire SoC Icicle Kit](https://github.com/polarfire-soc/polarfire-soc-documentation/tree/master/boards/mpfs-icicle-kit-es)
 
-Youtube:
+YouTube:
 * [Building a Yocto Image](https://www.youtube.com/watch?v=CweRIou2yxk&list=PL9B4edd-p2agS6QkXUZjAvjlPiyAO5RP0)
 * [Introduction to GPIO/UIO Drivers and Yocto SDK](https://www.youtube.com/watch?v=VT5oON9JLSI&list=PL9B4edd-p2aiesb5K9TKQpoyGJlPAmq8x)
+* [PolarFire SoC Github introduction](https://www.youtube.com/watch?v=-e_OniBC5nU&list=PL9B4edd-p2ajvXj0ZflizZI4zgm3Jev_O&index=4)
+* [Getting back to factory defaults](https://www.youtube.com/watch?v=dL3u6pYWFvQ&list=PL9B4edd-p2ajvXj0ZflizZI4zgm3Jev_O&index=5)
+* [Factory MSS configuration for the Icicle Kit]( https://www.youtube.com/watch?v=mXp5cNg4qbY&list=PL9B4edd-p2ajvXj0ZflizZI4zgm3Jev_O&index=6)
+* [What is the HSS](https://www.youtube.com/watch?v=UKGVAl3BOog&list=PL9B4edd-p2ajvXj0ZflizZI4zgm3Jev_O&index=8)
+* [MSS Configurator Run through](https://www.youtube.com/watch?v=WrkmaJingRg&list=PL9B4edd-p2ajvXj0ZflizZI4zgm3Jev_O&index=7)
+
+
+
 
 
  
