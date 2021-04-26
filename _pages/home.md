@@ -20,21 +20,21 @@ feature_row:
     excerpt: "They're the hard processors."
     url:  "/docs/polarfire-soc/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Getting Started"
   - image_path: /assets/images/190731-FPGA-Risc-v-webinar-400x267.jpg
     alt: "fully responsive"
     title: "Mi-V RISC-V Processors"
     excerpt: "They're the soft processors"
     url: "/docs/mi-v-soft-cpu/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Getting Started"
   - image_path: /assets/images/Libero_Logo.png
     alt: "100% free"
     title: "Tools"
     excerpt: "We have them :) "
     url: "/docs/tools/"
     btn_class: "btn--primary"
-    btn_label: "Learn more" 
+    btn_label: "Getting Started" 
 ---
 
 {% include feature_row %}
