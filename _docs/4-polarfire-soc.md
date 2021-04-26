@@ -14,21 +14,21 @@ feature_row:
     excerpt: "Infomation to aid a Linux Developer to program on the Icicle Kit using programs such as Yocto and Buildroot."
     url:  "/docs/linux-user/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Getting Started"
   - image_path: /assets/images/bare_metal_developer.PNG
     alt: "fully responsive"
     title: "Bare Metal Developer"
     excerpt: "Programs needed to work on Bare Metal applications."
     url: "/docs/baremetal-user/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"    
+    btn_label: "Getting Started"    
   - image_path: /assets/images/FPGA_Developer.PNG
     alt: "100% free"
     title: "FPGA Developer"
     excerpt: "Programs needed to work on FPGA Developer."
-    #url: "/docs/fpga-user/"
+    url: "/docs/fpga-user/"
     btn_class: "btn--primary"
-    btn_label: "Learn more" 
+    btn_label: "Getting Started" 
 ---
 
 {% include feature_row %}
