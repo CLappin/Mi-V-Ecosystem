@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Support"
-permalink: /docs/linux-user/
+permalink: /docs/support/
 hidden: true
 header:
   overlay_color: "#5e616c"
