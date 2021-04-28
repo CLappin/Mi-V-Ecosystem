@@ -8,6 +8,5 @@ main:
   - title: "FAQs"
     url:  "/docs/faqs/"    
   - title: "Support"
-    url: /about/       
-  - title: "About"
-    url: /about/  
+    url: /docs/support/     
+
