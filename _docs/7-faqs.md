@@ -20,5 +20,5 @@ last_modified_at: 2018-01-10T11:22:01-05:00
 | MSS | Microprocessor SubSystem |
 | BSP | Board Support Package |
 | eFP6 | Embedded Flash Pro 6 |
-| eMMC | embedded Multi Media Controller |
+| eMMC | embedded Multimedia Controller |
 | HAL | Hardware Abstraction Layer  |
