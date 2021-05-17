@@ -28,7 +28,7 @@ feature_row:
     url: "/docs/mi-v-soft-cpu/"
     btn_class: "btn--primary"
     btn_label: "Getting Started"
-  - image_path: /assets/images/Libero_Logo.png
+  - image_path: /assets/images/Toolbox_iStock_300x500.png
     alt: "100% free"
     title: "Tools"
     excerpt: "We have them :) "
