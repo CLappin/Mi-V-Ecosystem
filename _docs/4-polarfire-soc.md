@@ -7,7 +7,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/201106-CORP-BNR-Design-Centers-FPGAs-and-plds-Banner-2880x280.jpg
 excerpt: "Welcome to the PolarFire SoC Page."
-feature_row:
+feature_row1:
   - image_path: /assets/images/terminals-linux-300x500.png
     alt: "customizable"
     title: "Linux Developer"
@@ -22,6 +22,7 @@ feature_row:
     url: "/docs/baremetal-user/"
     btn_class: "btn--primary"
     btn_label: "Getting Started"    
+feature_row2:    
   - image_path: /assets/images/FPGA_Developer-300x500.png
     alt: "100% free"
     title: "FPGA Developer"
@@ -38,4 +39,5 @@ feature_row:
     btn_label: "Getting Started"     
 ---
 
-{% include feature_row %}
+{% include feature_row1 %}
+{% include feature_row2 %}
