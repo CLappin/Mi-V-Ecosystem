@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/201106-CORP-BNR-Design-Centers-FPGAs-and-plds-Banner-2880x280.jpg
 excerpt: "Welcome to the PolarFire SoC Page."
 feature_row:
-  - image_path: /assets/images/terminals-linux.png
+  - image_path: /assets/images/terminals-linux-300x500.png
     alt: "customizable"
     title: "Linux Developer"
     excerpt: "Infomation to aid a Linux Developer to program on the Icicle Kit using programs such as Yocto and Buildroot."
