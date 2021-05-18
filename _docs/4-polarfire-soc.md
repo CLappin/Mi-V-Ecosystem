@@ -29,6 +29,13 @@ feature_row:
     url: "/docs/fpga-user/"
     btn_class: "btn--primary"
     btn_label: "Getting Started" 
+  - image_path: /assets/images/FPGA_Developer-300x500.png
+    alt: "100% free"
+    title: "Custom Hardware"
+    excerpt: "Everything you need to know."
+    url: "/docs/fpga-user/"
+    btn_class: "btn--primary"
+    btn_label: "Getting Started"     
 ---
 
 {% include feature_row %}
