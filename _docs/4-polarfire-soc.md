@@ -22,7 +22,7 @@ feature_row:
     url: "/docs/baremetal-user/"
     btn_class: "btn--primary"
     btn_label: "Getting Started"    
-  - image_path: /assets/images/FPGA_Developer.PNG
+  - image_path: /assets/images/FPGA_Developer-300x500.png
     alt: "100% free"
     title: "FPGA Developer"
     excerpt: "Programs needed to work on FPGA Developer."
