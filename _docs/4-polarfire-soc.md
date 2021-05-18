@@ -15,7 +15,7 @@ feature_row:
     url:  "/docs/linux-user/"
     btn_class: "btn--primary"
     btn_label: "Getting Started"
-  - image_path: /assets/images/bare_metal_developer-300x500.PNG
+  - image_path: /assets/images/bare_metal_developer-300x500.png
     alt: "fully responsive"
     title: "Bare Metal Developer"
     excerpt: "Programs needed to work on Bare Metal applications."
