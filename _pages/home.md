@@ -21,7 +21,7 @@ feature_row:
     url:  "/docs/polarfire-soc/"
     btn_class: "btn--primary"
     btn_label: "Getting Started"
-  - image_path: /assets/images/190731-FPGA-Risc-v-webinar-400x267.jpg
+  - image_path: /assets/images/190731-FPGA-Risc-v-webinar-300x500.jpg
     alt: "fully responsive"
     title: "Mi-V RISC-V Processors"
     excerpt: "They're the soft processors"
