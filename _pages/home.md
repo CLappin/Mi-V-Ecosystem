@@ -14,7 +14,7 @@ excerpt: >
   A comprehensive offering to ease the adoption of RISC-V.<br /> 
   Open. Lowest power. Programmable RISC-V solutions.<br />
 feature_row:
-  - image_path: /assets/images/200602-FPGA-SOC-PolarFire-SoC-Marketo-600x250.jpg
+  - image_path: /assets/images/200602-FPGA-SOC-PolarFire-SoC-Marketo-300x500.jpg
     alt: "customizable"
     title: "PolarFire SoC"
     excerpt: "They're the hard processors."
