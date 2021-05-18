@@ -21,4 +21,5 @@ last_modified_at: 2018-01-10T11:22:01-05:00
     * Add / edit bare meatl application
     * Build Bare metal application as HSS payload
     * Program bare metal image with USBDMSC
-5 Use USBDMSC to flash the eMMC & test
+
+5. Use USBDMSC to flash the eMMC & test
