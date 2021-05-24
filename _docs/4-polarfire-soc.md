@@ -39,6 +39,6 @@ feature_row_2:
     btn_label: "Getting Started"     
 ---
 
-{% include feature_row %}
-{% include feature_row_2 %}
+{% include feature_row type="center"%}
+{% include feature_row_2  type="center"%}
 
