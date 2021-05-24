@@ -21,7 +21,8 @@ feature_row:
     excerpt: "Programs needed to work on Bare Metal applications."
     url: "/docs/baremetal-user/"
     btn_class: "btn--primary"
-    btn_label: "Getting Started"     
+    btn_label: "Getting Started"  
+feature_row_2:    
   - image_path: /assets/images/FPGA_Developer-300x500.png
     alt: "100% free"
     title: "FPGA Developer"
@@ -39,4 +40,5 @@ feature_row:
 ---
 
 {% include feature_row %}
+{% include feature_row_2 %}
 
