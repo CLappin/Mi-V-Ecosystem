@@ -5,8 +5,9 @@ main:
     url: "/docs/mi-v-soft-cpu/"
   - title: "Tools"
     url:  "/docs/tools/"
-  - title: "FAQs"
+  - title: "Training"
+    url: /docs/training/     
+  - title: "FAQ"
     url:  "/docs/faqs/"    
   - title: "Support"
     url: /docs/support/     
-
