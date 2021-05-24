@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "FAQs"
+title: "FAQ"
 permalink: /docs/faqs/
 hidden: true
 header:
