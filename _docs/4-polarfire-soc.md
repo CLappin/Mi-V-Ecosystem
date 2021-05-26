@@ -40,5 +40,6 @@ feature_row_2:
 ---
 
 {% include feature_row %}
+
 {% include feature_row_2 %}
 
