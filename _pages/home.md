@@ -39,5 +39,5 @@ feature_row:
 
 {% include feature_row %}
 
-{% include_relative advertisment.md %}
+{% include_relative ../docs/advertisment.md %}
 
