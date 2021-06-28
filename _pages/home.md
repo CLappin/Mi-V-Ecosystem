@@ -38,3 +38,6 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+{% include_relative advertisment.md %}
+
